@@ -1,0 +1,9 @@
+[core]
+	editor = " 'D:/Program Files/Sublime Text 3/sublime_text.exe' -n -w"
+[push]
+	default = upstream
+[merge]
+	conflictstyle = diff3
+[user]
+	email = wuqihui1989@163.com
+	name = Qihui Wu
